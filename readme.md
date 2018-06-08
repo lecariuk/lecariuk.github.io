@@ -2,7 +2,7 @@
 
 ![Picture of me](yes.jpg)
 
-Hi, I'm Claire and this is my **GitHub repository**.
+Hi, I'm Claire and this is my **GitHub repository**. :dog2:
 
 ## About Me
 
