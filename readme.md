@@ -1,6 +1,7 @@
 # Welcome to my Markdown page
 
 ![Picture of me](yes.jpg)
+
 Hi, I'm Claire and this is my **GitHub repository**.
 
 ## About Me
